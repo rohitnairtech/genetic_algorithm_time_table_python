@@ -1,0 +1,56 @@
+{
+	"BE_IT": [
+		{
+			"subject": [
+				"SNMR",
+				"CSAM",
+				"BDA",
+				"STQA/Robo"
+			],
+			"theory": [
+				"Madhumita",
+				"Aju",
+				"Varun",
+				"Sushopti/Prashant"
+			],
+			"practical": [
+				"Rahul",
+				"Aju",
+				"Varun",
+				"Samruddhi/Prashant"
+			],
+			"class": [
+				"601",
+				"602",
+				"102"
+			]
+		}
+	],
+	"BE_Mec": [
+		{
+			"subject": [
+				"CNS",
+				"TEchn",
+				"RSA",
+				"RUm/Tum"
+			],
+			"theory": [
+				"GV patil",
+				"Onkar S",
+				"Shaligram",
+				"Lalit/Vinod D"
+			],
+			"practical": [
+				"GV Patil",
+				"Onkar S",
+				"Bhagwan M",
+				"Samruddhi/Sridhar"
+			],
+			"class": [
+				"501",
+				"502",
+				"103"
+			]
+		}
+	]
+}

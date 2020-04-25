@@ -1,0 +1,56 @@
+{
+	"BBA": [
+		{
+			"subject": [
+				"C PROGRAMMING",
+				"JAVA",
+				"COMPUTER FUNDAMENTAL",
+				"ENGLISH/SANSKRIT"
+			],
+			"theory": [
+				"Madhumita",
+				"Prasad",
+				"Varun",
+				"Sushopti/Prashant"
+			],
+			"practical": [
+				"Rahul",
+				"Prasad",
+				"Varun",
+				"Samruddhi/Prashant"
+			],
+			"class": [
+				"601",
+				"602",
+				"102"
+			]
+		}
+	],
+	"MCA": [
+		{
+			"subject": [
+				"WEB TECHNOLOGIES",
+				"OOPS(C++)",
+				"ADVANCED UNIX",
+				"CYBER SECURITY/ADVANCED INTERNET TECHNOLOGY"
+			],
+			"theory": [
+				"GV patil",
+				"Salman",
+				"Shaligram",
+				"Lalit/Vinod D"
+			],
+			"practical": [
+				"GV Patil",
+				"Salman",
+				"Bhagwan M",
+				"Samruddhi/Sridhar"
+			],
+			"class": [
+				"501",
+				"502",
+				"103"
+			]
+		}
+	]
+}
